@@ -1,0 +1,71 @@
+.navbar {
+    padding-bottom: 0;
+    margin-bottom: 0!important;
+}
+
+.background-image{
+  padding-top: 0;
+  margin-top: 0;
+}
+
+img {
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: #212529!important;
+}
+
+.grid {
+  background-color: white;
+}
+
+main {
+  color: white;
+}
+.container-grid{
+  display: flex;
+  justify-content: center;
+  padding : 50px;
+  flex-wrap: wrap;
+}
+
+.img-1:hover {
+  opacity: 0.5;
+}
+
+.img-1 {
+  opacity: 1.0;
+}
+
+
+
+article {
+  background-color: lightgrey;
+  overflow: auto;
+  color: #212529; 
+}
+
+.park-map{
+  display: flex;
+  justify-content: center;
+}
+
+
+.closing {
+  background-color: #C9A780;
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.img-2 { 
+  display: flex;
+  width: 20vw;
+  height: 30vh; 
+  padding: 0px;  
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
